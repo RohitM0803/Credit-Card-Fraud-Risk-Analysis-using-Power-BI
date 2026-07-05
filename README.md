@@ -17,7 +17,7 @@
 
 ## 📸 Dashboard Preview
 
-> Replace the image path after uploading the screenshot to your repository.
+
 
 <p align="center">
 <img src="dashboard.png" width="100%">
